@@ -1,5 +1,5 @@
 ### Olá 👋
-Meu nome é Iago e sou Back-end developer desde 2023, atualmente estudo na Cubos Academy e amo arte música e programação.
+Meu nome é Iago e sou Back-end developer desde 2023, atualmente estudo na Cubos Academy e amo arte, música e programação.
 
 #### Hard Skills
 - Go
