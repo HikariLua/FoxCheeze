@@ -1,5 +1,13 @@
-### Hi there 👋
+### Olá 👋
+Meu nome é Iago e sou Back-end developer desde 2023, atualmente estudo na Cubos Academy e amo arte música e programação.
 
+#### Hard Skills
+- Go
+- Python
+- JavaScript
+- GDScript
+
+> Tu te tornas eternamente responsável por aquilo que cativas
 <!--
 **FoxCheeze/FoxCheeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
